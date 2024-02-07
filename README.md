@@ -37,8 +37,6 @@ python visualization_script.py
 
 To perform a sensitivity analysis on the impact of changes in key variables:
 
-undefined
-
 Copy code
 ```bash
 python analysis_script.py
