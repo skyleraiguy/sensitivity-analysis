@@ -70,9 +70,3 @@ Acknowledgements
 *   [Matplotlib](https://matplotlib.org/)
 *   [Seaborn](https://seaborn.pydata.org/)
 *   [Scikit-learn](https://scikit-learn.org/)
-
-rust
-
-Copy code
-
-`Make sure to adjust the paths, usernames, and links to match your project details and personal or organizational GitHub profile. This README template will provide a solid foundation for your project's GitHub page, making it easier for others to understand, use, and contribute to your project.`
